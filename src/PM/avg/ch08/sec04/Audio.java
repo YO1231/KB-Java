@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec04;
+package PM.avg.ch08.sec04;
 
 public class Audio implements RemoteControl {
     private int volume;

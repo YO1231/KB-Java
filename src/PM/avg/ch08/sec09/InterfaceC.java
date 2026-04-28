@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec09;
+package PM.avg.ch08.sec09;
 
 public interface InterfaceC extends InterfaceA, InterfaceB {
     void methodC();

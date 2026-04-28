@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec02;
+package PM.avg.ch08.sec02;
 
 public class Television implements RemoteControl {
     @Override

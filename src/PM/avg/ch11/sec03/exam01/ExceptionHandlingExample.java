@@ -1,4 +1,4 @@
-package PM.avg.day0422.ch11.sec03.exam01;
+package PM.avg.ch11.sec03.exam01;
 
 public class ExceptionHandlingExample {
     public static void main(String[] args) {

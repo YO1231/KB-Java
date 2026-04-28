@@ -1,4 +1,4 @@
-package PM.avg.day0421.ch09.sec03.exam01;
+package PM.avg.ch09.sec03.exam01;
 
 public class A {
     static class B {}
