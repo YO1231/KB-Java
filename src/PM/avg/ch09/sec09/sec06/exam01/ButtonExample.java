@@ -1,4 +1,4 @@
-package PM.avg.day0421.ch09.sec09.sec06.exam01;
+package PM.avg.ch09.sec09.sec06.exam01;
 
 public class ButtonExample {
     public static void main(String[] args) {

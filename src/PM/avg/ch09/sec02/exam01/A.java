@@ -1,4 +1,4 @@
-package PM.avg.day0421.ch09.sec02.exam01;
+package PM.avg.ch09.sec02.exam01;
 
 public class A {
     class B {}

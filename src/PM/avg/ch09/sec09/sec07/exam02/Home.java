@@ -1,4 +1,4 @@
-package PM.avg.day0421.ch09.sec09.sec07.exam02;
+package PM.avg.ch09.sec09.sec07.exam02;
 
 public class Home {
     private RemoteControl rc = new RemoteControl() {

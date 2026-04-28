@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec10;
+package PM.avg.ch08.sec10;
 
 public class Bus implements Vehicle {
     @Override

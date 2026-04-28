@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec13;
+package PM.avg.ch08.sec13;
 
 public class InstanceofExample {
     public static void main(String[] args) {

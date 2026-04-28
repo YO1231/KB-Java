@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec08;
+package PM.avg.ch08.sec08;
 
 public class SmartTelevision implements RemoteControl, Searchable {
     @Override

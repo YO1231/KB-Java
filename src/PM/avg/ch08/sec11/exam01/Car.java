@@ -1,4 +1,4 @@
-package PM.avg.day0420.ch08.sec11.exam01;
+package PM.avg.ch08.sec11.exam01;
 
 public class Car {
     Tire tire1 = new HankookTire();
