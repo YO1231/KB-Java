@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c177e4a-5f71-41d6-a404-c47ad2a8ba5d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/app/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/app/domain/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec01/ConnectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec02/InsertManyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec02/InsertManyTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec02/InsertOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec03/FindOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec03/FindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/java/sec04/UpdateOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MongoDB/java_ex/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/database/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/domain/TravelImageVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/domain/TravelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/travel/CSVTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/travel/dao/TravelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/travel/dao/TravelDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/travel/dataimport/ImportImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/scoula/travel/dataimport/ImportTravelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3EZT2dULrIOuB1XAbUKif3yuMMP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Travel [:org.scoula.travel.CSVTest1.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/MongoDB",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/KB-Java/MySQL/Travel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.scoula.travel.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\KB-Java\MySQL\Travel" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1c177e4a-5f71-41d6-a404-c47ad2a8ba5d" name="변경" comment="" />
+      <created>1780384889310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780384889310</updated>
+      <workItem from="1780384890462" duration="1403000" />
+      <workItem from="1780388267204" duration="1900000" />
+      <workItem from="1780621798575" duration="924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
