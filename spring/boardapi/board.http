@@ -1,0 +1,35 @@
+###
+GET http://localhost:8080/api/board
+
+###
+GET http://localhost:8080/api/board/5
+
+###
+GET http://localhost:8080/api/board/6
+
+###
+POST http://localhost:8080/api/board/
+Content-Type: application/json
+
+{
+  "title": "테스트 제목xxx",
+  "content": "테스트 내용xxx",
+  "writer": "user010"
+}
+
+###
+PUT http://localhost:8080/api/board/6
+Content-Type: application/json
+
+{
+  "no": 6,
+  "title": "테스트 제목 yyy",
+  "content": "테스트 내용 zzzz",
+  "writer": "user010"
+}
+
+###
+DELETE http://localhost:8080/api/board/7
+
+###
+GET http://localhost:8080/api/board/100
