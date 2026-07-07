@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="org.scoula.product.mapper.ProductMapper">
+
+    <select id="getList" resultType="org.scoula.product.domain.ProductVO">
+        SELECT * FROM product
+        ORDER BY category, no DESC
+    </select>
+
+    <!--    문제 3 상품 등록 기능을 완성하시오.(계속)-->
+    <!--    3-2) 상품 등록 등록 쿼리를 작성하시오.-->
+    <insert id="insertProduct">
+        insert into product (category, title, description, price)
+        values (#{category}, #{title}, #{description}, #{price});
+
+        <selectKey resultType="Long" keyProperty="no" keyColumn="no" order="AFTER">
+            SELECT LAST_INSERT_ID()
+        </selectKey>
+    </insert>
+
+
+    <!--    문제 4 상품 상세 보기를 완성하시오.-->
+    <!--    4-1) ProductMapper.xml에 상세 보기를 위한 쿼리를 작성하시오.-->
+    <select id="getProduct" resultType="org.scoula.product.domain.ProductVO">
+        select * from product where no = #{no}
+    </select>
+
+    <select id="getImages" resultType="org.scoula.product.domain.ProductImageVO">
+        select * from product_image where no = #{no}
+    </select>
+
+    <!--    문제 5 상품 삭제 기능을 완성하시오.-->
+    <!--    5-1) ProductMapper.xml에 상품 삭제 쿼리를 완성하시오.-->
+    <delete id="deleteProduct">
+        delete from product where no = #{no}
+    </delete>
+
+    <!--    문제 7 상품 검색 API를 완성하시오.-->
+    <!--    7-1) ProductMapper.xml에 상품 검색 쿼리를 작성하시오.-->
+    <select id="search" resultType="org.scoula.product.domain.ProductVO">
+        select * from product where title like #{%keyword%} or description like #{%keyword%} order by category, reg_date desc
+    </select>
+</mapper>
